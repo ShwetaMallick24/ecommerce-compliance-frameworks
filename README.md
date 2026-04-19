@@ -1,6 +1,6 @@
 # E-Commerce Compliance Frameworks
 
-**By Shweta** | Category Governance PM | TikTok (ByteDance) & Amazon
+**By Shweta** | PM | TikTok (ByteDance) & Amazon
 
 ---
 
