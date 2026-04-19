@@ -20,6 +20,7 @@ At TikTok Shop, I built compliance infrastructure from scratch for categories li
 | [seller-onboarding-playbook.md](./seller-onboarding-playbook.md) | Step-by-step onboarding process for high-risk category sellers |
 | [trust-and-verification-system.md](./trust-and-verification-system.md) | The trust badge program that increased buyer confidence and conversion |
 | [outcomes-and-metrics.md](./outcomes-and-metrics.md) | Quantified results across both TikTok Shop and Amazon |
+| [system-architecture.md](./system-architecture.md) | End-to-end system design: seller portal through monitoring |
 
 ---
 
